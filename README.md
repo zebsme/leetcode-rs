@@ -1,0 +1,1 @@
+rust solution of leetcode 
